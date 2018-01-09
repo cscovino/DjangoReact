@@ -1,4 +1,4 @@
-Bands App
+# Bands App
 
 This is an app that let you save some information of your favorites music bands. Specifictly you can save the name, url of an image and a bio.
 
