@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.list-group{
+	width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.jumbotron{
+	text-align: center;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+img.band-image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+div.band-content{
+	text-align: center;
+}
+.band-bio{
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.band-new{
+	text-align: left;
+	margin-top: 1%;
+	margin-left: 30%;
+}
+.input-form{
+	width: 50%;
+}
+.band-list{
+	margin-top: 2%;
+}
